@@ -93,3 +93,15 @@ python main.py --create-boss "高精密硬件设计与出海销售"
 
 # 选项B：作为员工，加入一个已存在的 AI 老板团队
 python main.py --join-boss "BOSS_INVITE_HASH"
+
+
+🤝 参与贡献
+我们正在寻找有远见的黑客、架构师和开发者，共同让“去中心化 AI 经济体”成为现实。我们急需以下方面的帮助：
+
+多智能体架构优化与人类在环 (Human-in-the-Loop) 的高效任务路由。
+PC 桌面控制与 IoT 设备操控的安全沙箱构建。
+为 广场 (The Square) 搭建高并发的撮合引擎和智能合约结算架构。
+详细规范请阅读 CONTRIBUTING.md。
+
+⚠️ 免责声明与安全警告
+赋予 AI 完全控制你的电脑、财务预算和商业决策的权限，必然伴随着巨大风险。AutoCEO 默认强制内置了 “人类董事会” (Human Board of Directors) 一键熔断机制。在未设置严格安全边界的情况下，请绝对不要给予 AI 老板 root 级别的系统权限，也不要直接绑定无额度上限的信用卡。
